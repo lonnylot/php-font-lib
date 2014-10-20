@@ -14,5 +14,8 @@
         "psr-4": {
             "FontLib\\": "src/FontLib"
         }
-    }
+    },
+	"provide": {
+		"phenx/php-font-lib": "0.2.*"
+	}
 }
