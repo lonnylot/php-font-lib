@@ -15,7 +15,7 @@
             "FontLib\\": "src/FontLib"
         }
     },
-	"provide": {
+	"replace": {
 		"phenx/php-font-lib": "0.2.1"
 	}
 }
