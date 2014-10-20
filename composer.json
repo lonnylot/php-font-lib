@@ -16,6 +16,6 @@
         }
     },
 	"provide": {
-		"phenx/php-font-lib": "0.2.*"
+		"phenx/php-font-lib": "0.2.1"
 	}
 }
